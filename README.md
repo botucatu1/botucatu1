@@ -10,7 +10,7 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 * 🌍  I'm based in Brazil  
 * ✉️  You can contact me at [igorrobloxalb@gmail.com](mailto:igorrobloxalb@gmail.com)  
 * 🧠  I'm currently learning HTML, CSS, JavaScript, and cybersecurity  
-* 💬  Ask me about: I enjoy several programming languages such as Python, SQL, C, C#, C++, Java, and Lua. And I like pizza :D  
+* 💬  Ask me about: I enjoy several programming languages such as Python, SQL, Java, and Lua. And I like pizza :D  
 
 ---
 
@@ -19,16 +19,12 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-<a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a>
 </p>
 
 ---
 
 ## 🗄️ Back-End Development
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="36" height="36">
 </p>
@@ -48,8 +44,8 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-  <img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="36" height="36">
-  <img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="36" height="36">
+<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="36" height="36">
+<img src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" width="36" height="36">
 </p>
 
 ---
