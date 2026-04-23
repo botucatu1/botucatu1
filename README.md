@@ -1,5 +1,5 @@
-<img src="https://github.com/botucatu1/botucatu1/blob/main/github-header-banner.png?raw=true">
-Hi 👋 My name is chomp!
+<img src="https://github.com/botucatu1/botucatu1/blob/main/github-header-banner%20(1).png?raw=true">
+<h1></h1>Hi 👋 My name is chomp!</h1>
 =======================
 
 I'm a JavaScript programmer who creates websites and has knowledge of cybersecurity and back-end development! :D
