@@ -1,5 +1,6 @@
 <img src="https://github.com/botucatu1/botucatu1/blob/main/github-header-banner%20(1).png?raw=true">
 <h1>Hi 👋 My name is chomp!</h1>
+<img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY5ODgzNjUsIm5iZiI6MTc3Njk4ODA2NSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDIzVDIzNDc0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMyMjk2NzM4MDE4MTYxYzI3NjkwZWUyODQ1MTljOGQ5YzcwODgzODIyZDQ2YWU5NTdkYWVjMDQ4M2RhZTU1MDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.pFtTLtwJjkyHT86CJhQX-NNPngQGwP8cdUxveVc5s5s"
 =======================
 
 I'm a JavaScript programmer who creates websites and has knowledge of cybersecurity and back-end development! :D
