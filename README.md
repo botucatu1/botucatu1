@@ -1,4 +1,4 @@
-<img>https://github.com/botucatu1/botucatu1/blob/main/github-header-banner.png?raw=true</img>
+<img src="https://github.com/botucatu1/botucatu1/blob/main/github-header-banner.png?raw=true">
 Hi 👋 My name is chomp!
 =======================
 
