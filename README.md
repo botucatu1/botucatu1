@@ -74,6 +74,10 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=botucatu1&label=Profile%20views&color=facc15&style=for-the-badge" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
