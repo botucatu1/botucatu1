@@ -1,81 +1,110 @@
 <img src="https://github.com/botucatu1/botucatu1/blob/main/github-header-banner%20(1).png?raw=true">
-<h1>Hi 👋 My name is chomp!</h1>
+
+<h1 align="center">Hi 👋 My name is chomp!</h1>
+
 =======================
 
 I'm a JavaScript programmer who creates websites and has knowledge of cybersecurity and back-end development! :D
-----------------------------------------------------------------------------------------------------------------
+
+---
 
 Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — they are my favorite technologies. I also study cybersecurity and have some knowledge of back-end development :D
 
-* 🌍  I'm based in Brazil  
-* ✉️  You can contact me at [igorrobloxalb@gmail.com](mailto:igorrobloxalb@gmail.com)  
-* 🧠  I'm currently learning HTML, CSS, JavaScript, and cybersecurity  
-* 💬  Ask me about: I enjoy several programming languages such as Python, SQL, Java, and Lua. And I like pizza :D  
+* 🌍 I'm based in Brazil  
+* ✉️ You can contact me at [igorrobloxalb@gmail.com](mailto:igorrobloxalb@gmail.com)  
+* 🧠 I'm currently learning HTML, CSS, JavaScript, and cybersecurity  
+* 💬 Ask me about: Python, SQL, Java, Lua... and pizza 🍕  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=botucatu1&show_icons=true&theme=moltack&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botucatu1&layout=compact&theme=moltack&hide_border=true" height="180"/>
+</p>
 
 ---
 
 ## 💻 Programming Languages
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" width="36"/></a>
 </p>
 
 ---
 
 ## 🗄️ Back-End Development
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /></a>
-<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="36" height="36">
+<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="36">
 </p>
 
 ---
 
 ## 🌐 Front-End Development
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/></a>
+<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></a>
 </p>
 
 ---
 
 ## ⚙️ DevOps & Cloud
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" /></a>
-<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="36" height="36">
+<a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36"/></a>
+<img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" width="36">
 </p>
 
 ---
 
 ## 🛠️ Tools & Software
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36"/></a>
 </p>
 
 ---
 
 ## 🖥️ Operating Systems
 <p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" /></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" /></a>
-<a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36" height="36" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36" height="36" /></a>
+<a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/></a>
+<a href="https://apple.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36"/></a>
+<a href="https://fedoraproject.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36"/></a>
+<a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36"/></a>
 </p>
+
+---
 
 <img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Socials
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=botucatu1&show_icons=true&theme=moltack" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botucatu1&langs_count=6&theme=moltack" height="150"/>
+<a href="https://www.github.com/botucatu1" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+</a>
+<a href="https://www.twitch.tv/capitomba" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+</a>
+<a href="https://discord.com/users/botucatu._" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+</a>
 </p>
 
 ---
 
-### Socials
-...
+<a href="https://www.github.com/botucatu1" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/botucatu1?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917"/>
+</a>
+
+---
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div>
