@@ -17,15 +17,6 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=botucatu1&show_icons=true&theme=moltack&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botucatu1&layout=compact&theme=moltack&hide_border=true" height="180"/>
-</p>
-
----
-
 ## 💻 Programming Languages
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36"/></a>
@@ -79,27 +70,40 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 
 ---
 
-<img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzcwNjYxNTcsIm5iZiI6MTc3NzA2NTg1NywicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MTgtZGUzMDAxNWYtZGM1Zi00ZWNmLWE0OWItY2NkMmI4OTc3NmU0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI0VDIxMjQxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEzMGI2MDJlOTg4YWM4NmZmMDVhZDU3ZWQ1NTJiNTBkOThkNjU4ZGU3ZmIzYjJlOWIzZjEyYjAyZDBhYmY1MWMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.7zO-Urb6t06MGXOsucSH_Ib0KrbkUV9j3eDz6IpFfvI">
+<img src="https://private-user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=botucatu1&show_icons=true&theme=moltack&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=botucatu1&layout=compact&theme=moltack&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=botucatu1&theme=moltack&hide_border=true" height="180"/>
+</p>
 
 ---
 
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://www.github.com/botucatu1" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+<a href="https://www.github.com/botucatu1" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" />
 </a>
-<a href="https://www.twitch.tv/capitomba" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+<a href="https://www.twitch.tv/capitomba" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" />
 </a>
-<a href="https://discord.com/users/botucatu._" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+<a href="https://discord.com/users/botucatu._" target="_blank">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" />
 </a>
 </p>
 
 ---
 
-<a href="https://www.github.com/botucatu1" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/botucatu1" target="_blank">
 <img src="https://img.shields.io/github/followers/botucatu1?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917"/>
 </a>
 
