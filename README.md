@@ -25,19 +25,19 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 </p>
 
 ---
-
 ## 🗄️ Back-End Development
 <p align="left">
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/></a>
+
+<a href="https://www.oracle.com/java/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36"/>
+</a>
+
 <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="36">
-</p>
 
----
-
-## 🌐 Front-End Development
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36"/></a>
-<a href="https://www.w3.org/TR/CSS/#css"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36"/></a>
 </p>
 
 ---
