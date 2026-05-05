@@ -65,7 +65,7 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 ## 🖥️ Operating Systems
 <p align="left">
 <a href="https://www.linux.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36"/></a>
-<a href="https://apple.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_Tahoe_logo.svg/256px-MacOS_Tahoe_logo.svg.png" width="36" title="macOS Tahoe"/></a>
+<a href="https://apple.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/MacOS_Tahoe_Logo_2025.svg/440px-MacOS_Tahoe_Logo_2025.svg.png" width="80" title="macOS Tahoe"/></a>
 <a href="https://fedoraproject.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" width="36"/></a>
 <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36"/></a>
 <a href="https://www.kali.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" width="36" title="Kali Linux"/></a>
