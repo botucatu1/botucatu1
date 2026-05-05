@@ -102,6 +102,9 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 <a href="https://discord.com/users/botucatu._" target="_blank">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" />
 </a>
+<a href="https://www.instagram.com/botucatu500" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/960px-Instagram_logo_2022.svg.png" width="32" />
+</a>
 </p>
 
 ---
