@@ -56,6 +56,8 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36"/></a>
 <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36"/></a>
+<a href="https://www.notion.so/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="36" title="Notion"/></a>
+<a href="https://obsidian.md/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/2023_Obsidian_logo.svg" width="36" title="Obsidian"/></a>
 </p>
 
 ---
