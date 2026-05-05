@@ -70,6 +70,7 @@ Hey! Welcome to my GitHub profile. I really like JavaScript, HTML, and CSS — t
 <a href="https://ubuntu.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" width="36"/></a>
 <a href="https://www.kali.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg" width="36" title="Kali Linux"/></a>
 <a href="https://archlinux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="36"/></a>
+<a href="https://www.gentoo.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gentoo_Linux_Signet.svg/960px-Gentoo_Linux_Signet.svg.png" width="36" title="Gentoo Linux"/></a>
 </p>
 
 ---
